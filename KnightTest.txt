@@ -1,0 +1,7 @@
+DESCENDING
+10   A1 a10 
+10   B2 c5
+20   C1 b20
+15   D2 c15
+ 5   Z4 f33
+13   G5 d12
